@@ -48,7 +48,7 @@ Job Hunt Application is a full-stack web application designed to streamline the 
    npm run dev
 
 4. **Run the frontend development server:**
-  ```bash
-   cd frontend
-   npm run dev
+    ```bash
+    cd frontend
+    npm run dev
 
